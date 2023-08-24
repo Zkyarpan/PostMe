@@ -10,7 +10,7 @@ import UploadRoute from "./Routes/UploadRoute.js";
 
 const app = express();
 dotenv.config();
-const PORT = process.env.PORT;
+const PORT = process.env.PORT || 5700;
 
 // To serve images for public
 app.use(express.static("public"));
