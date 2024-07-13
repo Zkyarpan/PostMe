@@ -1,6 +1,6 @@
-# JustMedia - Social Media Platform
+# Social Media Platform
 
-JustMedia is a social media platform that allows users to share posts, follow others, and engage with content.
+  social media platform that allows users to share posts, follow others, and engage with content.
 
 ## Features
 - **Post Sharing**: Users can create and share posts with text, images, or videos.
