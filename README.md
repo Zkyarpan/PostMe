@@ -1,4 +1,4 @@
-# Social Media Platform
+# PostMe
 
 A social media platform that allows users to share posts, follow others, and engage with content.
 
