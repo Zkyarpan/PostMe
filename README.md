@@ -45,5 +45,5 @@ A social media platform that allows users to share posts, follow others, and eng
 - Explore the platform, follow users, and engage with their posts.
 - Share your own posts and interact with content in your feed.
 
-## Contributing
-Contributions are welcome! Feel free to open issues or pull requests for any improvements or new features.
+## Note
+Frontend part is in frontend branch check it out.
